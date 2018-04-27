@@ -3,21 +3,12 @@
 	padding: 0px;
 }
 .div1{
+    margin:0 auto;
 	width: 480px;
 	height: 280px;
-    display: block;
     float: none;
-    width: 100%:
-    position: relative;
 }
 li{
-    display:block;
-    width:100%;
-    margin:auto;
-    position:absolute;
-    left:0;
-    right:0;
-    top:0;
-    bottom:0;
     list-style: none;
+    position: absolute;
 }
